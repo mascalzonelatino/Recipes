@@ -1,0 +1,45 @@
+# Welcome to [R]ecipes
+
+Why an R blog? 
+
+I have been playing with R for a few months now and this language really amazes me for a number of things. I have been impressed with what I call the *philosophy behind the technology* of R, to the point that - as lazy as I am - I decided to leave some written legacy of my R journey. 
+
+First: R is free software. We are reminded of that every time we execute R, e.g.
+from the command line: 
+
+
+```r
+~/workspace$ R
+
+R version 3.2.0 (2015-04-16) -- "Full of Ingredients"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: i686-pc-linux-gnu (32-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+```
+
+So I'm using version 3.2.0 which is - ah ah! - **"Full of Ingredients"**! Then I have no choice but to call my blog R[ecipes] or recipes with R ingredients. 
+
+I am the kind of person who takes what he does very seriously but never takes himself too seriously: I like technology that's built with the same philosophy in mind and I think R is one of them. 
+
+Okay a couple of more reasons why I like R: 
+
+- R makes it easy for you to *write what you mean*. This is something that programmers will probably understand without further explanation - especially those with a C/C++ background. 
+
+- R and its packages really build on the idea of reusability: once a problem is solved in a certain context, the R community does a great job at extrapolating the general purpose elements of the solution to that problem and make them available in packages, functions, etc. to all programmers out there. You almost never have to solve the exact same problem twice.
+
+There's a lot more to say about the pros (and cons) of R but I'll avoid writing an essay about it now. Instead, I'll go and write some recipes. 
+
+Ciao!
