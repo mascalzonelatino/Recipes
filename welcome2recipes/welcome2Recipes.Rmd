@@ -1,5 +1,5 @@
 ---
-title: "Welcome to [R]ecipes"
+title: 
 output: 
   html_document:
     keep_md: true
